@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "471616822619",
+    "firebase_url": "https://fcm-sigma-d3903.firebaseio.com",
+    "project_id": "fcm-sigma-d3903",
+    "storage_bucket": "fcm-sigma-d3903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471616822619:android:35be848cdbf87773",
+        "android_client_info": {
+          "package_name": "com.example.win10.sigma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471616822619-3rjdaj3ag8mh8kvchv92vtvqmb9f2d30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.win10.sigma",
+            "certificate_hash": "8f1ff465afb5d0ace63f785d0353543259632031"
+          }
+        },
+        {
+          "client_id": "471616822619-msdk4ecdouhilisu6fo8aahaubha3rr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWYIcU2vY54cEwk48AY3Z7dSg_9vZVTVw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471616822619-msdk4ecdouhilisu6fo8aahaubha3rr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

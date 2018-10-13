@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+     <!--   <item name="colorPrimary">@color/colorPrimary</item> -->
+
+        <item name="colorPrimary">#009999</item>
+        <item name="android:itemBackground">#FFFFFF</item>
+        <item name="android:textColor">@android:color/black</item>
+     <!--   <item name="colorPrimaryDark">@color/colorPrimaryDark</item> -->
+        <item name="colorPrimaryDark">#009999</item>
+        <item name="colorAccent">#A2A2A2</item>
+    </style>
+    <style name="Theme.HomeScreen" parent="android:Theme.Holo.NoActionBar.TranslucentDecor">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="colorPrimaryDark">#009999</item>
+        <item name="colorPrimary">#009999</item>
+    </style>
+
+
+</resources>

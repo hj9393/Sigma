@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="홈"
+            android:icon="@drawable/ic_home_black_24dp"/>
+        <item
+            android:id="@+id/nav_"
+            android:title="자동차"
+            android:icon="@drawable/ic_directions_car_black_24dp">
+        </item>
+    </group>
+
+    <item android:title="Information">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:title="로그아웃"
+                android:icon="@drawable/ic_power_settings_new_black_24dp"/>
+            <item
+                android:id="@+id/nav_registration"
+                android:title="기기등록"
+                android:icon="@drawable/ic_note_add_black_24dp"/>
+            <item
+                android:id="@+id/nav_version"
+                android:title="버전정보"
+                android:icon="@drawable/ic_build_black_24dp"/>
+            <item
+                android:id="@+id/nav_developer"
+                android:title="개발자들"
+                android:icon="@drawable/ic_face_black_24dp"/>
+        </menu>
+    </item>
+
+</menu>
