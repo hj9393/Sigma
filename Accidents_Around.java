@@ -42,7 +42,6 @@ public class Accidents_Around extends FragmentActivity implements OnMapReadyCall
 
         btn_address = (Button)findViewById(R.id.btn_address);
         btn_address.setText(data_address);
-        
         btn_address.setClickable(false);
         btn_address.setFocusable(false);
     /*    edt_address = (EditText)findViewById(R.id.edt_address);
